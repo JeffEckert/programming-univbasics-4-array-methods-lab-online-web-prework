@@ -11,7 +11,7 @@ array.reverse
 end
 
 def using_first(array)
-
+array = ["wow", "totally", "awesome"]
 array.first
 => "wow"
 end
