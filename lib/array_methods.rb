@@ -12,6 +12,7 @@ end
 
 def using_first(array)
 array.first
+=> "wow"
 end
 
 def using_last(array)
